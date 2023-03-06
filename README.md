@@ -1,1 +1,10 @@
-# hw-repository
+Git
+
+Создан сервер на nodejs
+
+Сcылка на репозиторий добавлена в таблицу
+
+Создана ишью в чужом репозитории: kannade/js_hw#2
+
+Time management
+
